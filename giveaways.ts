@@ -1,0 +1,5 @@
+import {z} from 'zod';
+export const giveawaySchema=z.object({id:z.string().uuid(),title:z.string().trim().min(3).max(150),prize:z.string().trim().min(3).max(500),description:z.string().trim().min(10).max(2000),eligibility:z.string().trim().min(10).max(1500),rules:z.string().trim().min(30).max(5000),selection:z.string().trim().min(10).max(1000),startsAt:z.string().datetime(),endsAt:z.string().datetime(),status:z.enum(['draft','open','paused','closed']),winners:z.number().int().min(1).max(1000)}).refine(g=>Date.parse(g.endsAt)>Date.parse(g.startsAt),'End must be after start');
+export type Giveaway=z.infer<typeof giveawaySchema>;
+export function giveawayState(g:Giveaway,now=Date.now()){if(g.status==='draft')return 'Draft';if(g.status==='closed'||now>=Date.parse(g.endsAt))return 'Closed';if(g.status==='paused')return 'Paused';return now<Date.parse(g.startsAt)?'Upcoming':'Open';}
+export const entrySchema=z.object({giveawayId:z.string().uuid(),name:z.string().trim().min(2).max(120),email:z.string().trim().email().max(200).transform(v=>v.toLowerCase()),consent:z.literal(true),website:z.string().max(0)});
