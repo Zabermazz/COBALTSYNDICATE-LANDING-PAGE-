@@ -3,1350 +3,1575 @@
     "name": "100X Club",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/100xclub",
-    "logo": "/logos/index/100xclub.svg"
+    "logo": "/logos/index/100xclub.svg",
+    "officialURL": "https://100x.club/"
   },
   {
     "name": "10FOUR",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/10four",
-    "logo": "/logos/index/10four.png"
+    "logo": "/logos/index/10four.png",
+    "officialURL": "https://10four.com/"
   },
   {
     "name": "18th Street Trading",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/18thstreettrading",
-    "logo": "/logos/index/18thstreettrading.png"
+    "logo": "/logos/index/18thstreettrading.png",
+    "officialURL": null
   },
   {
     "name": "AI Prop",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/aiprop",
-    "logo": "/logos/index/aiprop.png"
+    "logo": "/logos/index/aiprop.png",
+    "officialURL": "https://aiprop.com/"
   },
   {
     "name": "Alpha Capital Group",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/alphacapitalgroup",
-    "logo": "/logos/index/alphacapitalgroup.png"
+    "logo": "/logos/index/alphacapitalgroup.png",
+    "officialURL": "https://alphacapitalgroup.uk/"
   },
   {
     "name": "Alpha Futures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/alphafutures",
-    "logo": "/logos/index/alphafutures.png"
+    "logo": "/logos/index/alphafutures.png",
+    "officialURL": "https://alpha-futures.com/"
   },
   {
     "name": "Alpha Trader Firm",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/alphatrader",
-    "logo": "/logos/index/alphatrader.jpg"
+    "logo": "/logos/index/alphatrader.jpg",
+    "officialURL": "https://alphafunded.com/"
   },
   {
     "name": "Apex Trader Funding",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/apextraderfunding",
-    "logo": "/logos/index/apextraderfunding.svg"
+    "logo": "/logos/index/apextraderfunding.svg",
+    "officialURL": "https://apextraderfunding.com"
   },
   {
     "name": "Aqua Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/aquafunded",
-    "logo": "/logos/index/aquafunded.svg"
+    "logo": "/logos/index/aquafunded.svg",
+    "officialURL": "https://www.aquafunded.com/"
   },
   {
     "name": "Astrofund",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/astrofund",
-    "logo": "/logos/index/astrofund.png"
+    "logo": "/logos/index/astrofund.png",
+    "officialURL": "https://astrofund.io/"
   },
   {
     "name": "ATFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/atfunded",
-    "logo": "/logos/index/atfunded.png"
+    "logo": "/logos/index/atfunded.png",
+    "officialURL": "https://atfunded.com/"
   },
   {
     "name": "Atlas Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/atlasfunded",
-    "logo": "/logos/index/atlasfunded.png"
+    "logo": "/logos/index/atlasfunded.png",
+    "officialURL": "https://atlasfunded.com/"
   },
   {
     "name": "Atmos Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/atmosfunded",
-    "logo": "/logos/index/atmosfunded.png"
+    "logo": "/logos/index/atmosfunded.png",
+    "officialURL": "https://atmosfunded.com/"
   },
   {
     "name": "AtmosTraders",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/atmostraders",
-    "logo": "/logos/index/atmostraders.png"
+    "logo": "/logos/index/atmostraders.png",
+    "officialURL": "https://atmostraders.com/"
   },
   {
     "name": "BEM Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/bemfunding",
-    "logo": "/logos/index/bem-funding.svg"
+    "logo": "/logos/index/bem-funding.svg",
+    "officialURL": "https://bemfunding.com/"
   },
   {
     "name": "BestProp4U",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/bestprop4u",
-    "logo": "/logos/index/bestprop4u.png"
+    "logo": "/logos/index/bestprop4u.png",
+    "officialURL": "https://bestprop4u.com/"
   },
   {
     "name": "Blink Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/blinkfunding",
-    "logo": "/logos/index/blinkfunding.png"
+    "logo": "/logos/index/blinkfunding.png",
+    "officialURL": "https://blinkfunding.com/"
   },
   {
     "name": "BloomFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/bloomfunded",
-    "logo": "/logos/index/bloomfunded.png"
+    "logo": "/logos/index/bloomfunded.png",
+    "officialURL": "https://bloomfunded.com/"
   },
   {
     "name": "Blue Guardian",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/blueguardian",
-    "logo": "/logos/index/blueguardian.svg"
+    "logo": "/logos/index/blueguardian.svg",
+    "officialURL": "https://blueguardian.com/"
   },
   {
     "name": "Blueberry Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/blueberryfunded",
-    "logo": "/logos/index/blueberryfunded.svg"
+    "logo": "/logos/index/blueberryfunded.svg",
+    "officialURL": "https://blueberryfunded.com/"
   },
   {
     "name": "BluSky",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/blusky",
-    "logo": "/logos/index/blusky.png"
+    "logo": "/logos/index/blusky.png",
+    "officialURL": "https://blusky.pro/"
   },
   {
     "name": "Breakout",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/breakout",
-    "logo": "/logos/index/breakout.png"
+    "logo": "/logos/index/breakout.png",
+    "officialURL": "https://portal.breakoutprop.com"
   },
   {
     "name": "Bridge Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/bridgefunded",
-    "logo": "/logos/index/bridgefunded.png"
+    "logo": "/logos/index/bridgefunded.png",
+    "officialURL": "https://bridgefunded.com/"
   },
   {
     "name": "BrightFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/brightfunded",
-    "logo": "/logos/index/brightfunded.png"
+    "logo": "/logos/index/brightfunded.png",
+    "officialURL": "https://brightfunded.com/"
   },
   {
     "name": "Bulenox",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/bulenox",
-    "logo": "/logos/index/bulenox.png"
+    "logo": "/logos/index/bulenox.png",
+    "officialURL": "https://bulenox.com/"
   },
   {
     "name": "Bullwaves Prime",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/bullwavesprime",
-    "logo": "/logos/index/bullwavesprime.png"
+    "logo": "/logos/index/bullwavesprime.png",
+    "officialURL": "https://www.prime.bullwaves.com/"
   },
   {
     "name": "Capital Mint Markets",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/capitalmintmarkets",
-    "logo": "/logos/index/capitalmintmarkets.webp"
+    "logo": "/logos/index/capitalmintmarkets.webp",
+    "officialURL": "https://capitalmintmarkets.com/"
   },
   {
     "name": "Carrot Funding",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/carrotfunding",
-    "logo": "/logos/index/carrotfunding.png"
+    "logo": "/logos/index/carrotfunding.png",
+    "officialURL": "https://carrotfunding.io/"
   },
   {
     "name": "City Traders Imperium",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/citytradersimperium",
-    "logo": "/logos/index/citytradersimperium.png"
+    "logo": "/logos/index/citytradersimperium.png",
+    "officialURL": "https://citytradersimperium.com"
   },
   {
     "name": "CoinProp",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/coinprop",
-    "logo": "/logos/index/coinprop.png"
+    "logo": "/logos/index/coinprop.png",
+    "officialURL": "https://coinprop.io/"
   },
   {
     "name": "Cointracts",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/cointracts",
-    "logo": "/logos/index/cointracts.png"
+    "logo": "/logos/index/cointracts.png",
+    "officialURL": "https://www.cointracts.com/"
   },
   {
     "name": "Core Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/corefunded",
-    "logo": "/logos/index/corefunded.png"
+    "logo": "/logos/index/corefunded.png",
+    "officialURL": "https://corefunded.io/"
   },
   {
     "name": "Crypto Fund Trader",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/cryptofundtrader",
-    "logo": "/logos/index/cryptofundtrader.png"
+    "logo": "/logos/index/cryptofundtrader.png",
+    "officialURL": "https://cryptofundtrader.com/"
   },
   {
     "name": "CypherTicks",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/cypherticks",
-    "logo": "/logos/index/cypherticks.jpg"
+    "logo": "/logos/index/cypherticks.jpg",
+    "officialURL": "https://cypherticks.com/"
   },
   {
     "name": "DayTraders",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/daytraders",
-    "logo": "/logos/index/daytraders.svg"
+    "logo": "/logos/index/daytraders.svg",
+    "officialURL": "https://daytraders.com/"
   },
   {
     "name": "DNA Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/dnafunded",
-    "logo": "/logos/index/dnafunded.png"
+    "logo": "/logos/index/dnafunded.png",
+    "officialURL": "https://dnafunded.com/"
   },
   {
     "name": "DojoTraders",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/dojotraders",
-    "logo": "/logos/index/dojotraders.png"
+    "logo": "/logos/index/dojotraders.png",
+    "officialURL": "https://dojotraders.com/"
   },
   {
     "name": "Dolvero",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/dolvero",
-    "logo": "/logos/index/dolvero.png"
+    "logo": "/logos/index/dolvero.png",
+    "officialURL": "https://dolvero.com/"
   },
   {
     "name": "E2T Prop",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/e2tprop",
-    "logo": "/logos/index/e2tprop.png"
+    "logo": "/logos/index/e2tprop.png",
+    "officialURL": "https://www.e2tprop.com/"
   },
   {
     "name": "E8 Markets",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/e8markets",
-    "logo": "/logos/index/e8markets.svg"
+    "logo": "/logos/index/e8markets.svg",
+    "officialURL": "https://e8markets.com"
   },
   {
     "name": "Earn2Trade",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/earn2trade",
-    "logo": "/logos/index/earn2trade.svg"
+    "logo": "/logos/index/earn2trade.svg",
+    "officialURL": "https://www.earn2trade.com/"
   },
   {
     "name": "Elite Trader Funding",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/elitetraderfunding",
-    "logo": "/logos/index/elitetraderfunding.png"
+    "logo": "/logos/index/elitetraderfunding.png",
+    "officialURL": "https://elitetraderfunding.com/"
   },
   {
     "name": "Elites Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/elitesfunding",
-    "logo": "/logos/index/elitesfunding.png"
+    "logo": "/logos/index/elitesfunding.png",
+    "officialURL": "https://elitesfunding.com/"
   },
   {
     "name": "Emerge Profit",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/emergeprofit",
-    "logo": "/logos/index/emergeprofit.png"
+    "logo": "/logos/index/emergeprofit.png",
+    "officialURL": "https://emergeprofit.com/"
   },
   {
     "name": "Evercrest Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/evercrestfunding",
-    "logo": "/logos/index/evercrestfunding.png"
+    "logo": "/logos/index/evercrestfunding.png",
+    "officialURL": "https://evercrestfunding.com/"
   },
   {
     "name": "EverFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/everfunded",
-    "logo": "/logos/index/everfunded.svg"
+    "logo": "/logos/index/everfunded.svg",
+    "officialURL": "https://www.everfunded.com/"
   },
   {
     "name": "EverTrader",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/evertrader",
-    "logo": "/logos/index/evertrader.png"
+    "logo": "/logos/index/evertrader.png",
+    "officialURL": "https://evertrader.com/"
   },
   {
     "name": "Falcon Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/falconfunded",
-    "logo": "/logos/index/falconfunded.svg"
+    "logo": "/logos/index/falconfunded.svg",
+    "officialURL": "https://falconfunded.com/"
   },
   {
     "name": "Fill88",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fill88",
-    "logo": "/logos/index/fill88.svg"
+    "logo": "/logos/index/fill88.svg",
+    "officialURL": "https://fill88.com/"
   },
   {
     "name": "Finotive Futures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/finotivefutures",
-    "logo": "/logos/index/finotivefutures.svg"
+    "logo": "/logos/index/finotivefutures.svg",
+    "officialURL": "https://finotivefutures.com/"
   },
   {
     "name": "Fintokei",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fintokei",
-    "logo": "/logos/index/fintokei.svg"
+    "logo": "/logos/index/fintokei.svg",
+    "officialURL": "https://www.fintokei.com/"
   },
   {
     "name": "Firewood Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/firewoodfunded",
-    "logo": "/logos/index/firewoodfunded.webp"
+    "logo": "/logos/index/firewoodfunded.webp",
+    "officialURL": "https://www.firewoodfunded.com/en"
   },
   {
     "name": "Flagship Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/flagshipfunded",
-    "logo": "/logos/index/flagshipfunded.png"
+    "logo": "/logos/index/flagshipfunded.png",
+    "officialURL": "https://www.flagshipfunded.com/"
   },
   {
     "name": "FNC Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fncfunding",
-    "logo": "/logos/index/fncfunding.png"
+    "logo": "/logos/index/fncfunding.png",
+    "officialURL": null
   },
   {
     "name": "Fondeo",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/fondeo",
-    "logo": "/logos/index/fondeo.png"
+    "logo": "/logos/index/fondeo.png",
+    "officialURL": "https://fondeo.xyz/"
   },
   {
     "name": "For Traders",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fortraders",
-    "logo": "/logos/index/fortraders.png"
+    "logo": "/logos/index/fortraders.png",
+    "officialURL": "https://fortraders.com/"
   },
   {
     "name": "Forex Funds Flow",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/forexfundsflow",
-    "logo": "/logos/index/forexfundsflow.png"
+    "logo": "/logos/index/forexfundsflow.png",
+    "officialURL": "https://forexfundsflow.com/"
   },
   {
     "name": "Forge of Traders",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/forgeoftraders",
-    "logo": "/logos/index/forgeoftraders.png"
+    "logo": "/logos/index/forgeoftraders.png",
+    "officialURL": "https://forgeoftraders.com/"
   },
   {
     "name": "Foxx Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/foxxfunded",
-    "logo": "/logos/index/foxxfunded.jpg"
+    "logo": "/logos/index/foxxfunded.jpg",
+    "officialURL": "https://www.foxx-funded.com/"
   },
   {
     "name": "FTMO",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/ftmo",
-    "logo": "/logos/index/ftmo.svg"
+    "logo": "/logos/index/ftmo.svg",
+    "officialURL": "https://ftmo.com/en/2-step-challenge/"
   },
   {
     "name": "FTUK",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/ftuk",
-    "logo": "/logos/index/ftuk.jpg"
+    "logo": "/logos/index/ftuk.jpg",
+    "officialURL": "https://ftuk.com/"
   },
   {
     "name": "Funded Academy",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedacademy",
-    "logo": "/logos/index/fundedacademy.png"
+    "logo": "/logos/index/fundedacademy.png",
+    "officialURL": "https://fundedacademy.com/"
   },
   {
     "name": "Funded Daily",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundeddaily",
-    "logo": "/logos/index/fundeddaily.webp"
+    "logo": "/logos/index/fundeddaily.webp",
+    "officialURL": "https://fundeddaily.com/"
   },
   {
     "name": "Funded Futures Family",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/fundedfuturesfamily",
-    "logo": "/logos/index/fundedfuturesfamily.jpg"
+    "logo": "/logos/index/fundedfuturesfamily.jpg",
+    "officialURL": "https://www.fundedfuturesfamily.com/"
   },
   {
     "name": "Funded Futures Network",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/fundedfuturesnetwork",
-    "logo": "/logos/index/fundedfuturesnetwork.png"
+    "logo": "/logos/index/fundedfuturesnetwork.png",
+    "officialURL": "https://fundedfuturesnetwork.com/"
   },
   {
     "name": "Funded Guru",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedguru",
-    "logo": "/logos/index/fundedguru.webp"
+    "logo": "/logos/index/fundedguru.webp",
+    "officialURL": "https://funded.guru/"
   },
   {
     "name": "Funded Mission",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedmission",
-    "logo": "/logos/index/fundedmission.webp"
+    "logo": "/logos/index/fundedmission.webp",
+    "officialURL": "https://fundedmission.com/"
   },
   {
     "name": "Funded Profit",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedprofit",
-    "logo": "/logos/index/fundedprofit.png"
+    "logo": "/logos/index/fundedprofit.png",
+    "officialURL": "https://funded-profit.com/"
   },
   {
     "name": "Funded Traders Global",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedtradersglobal",
-    "logo": "/logos/index/fundedtradersglobal.webp"
+    "logo": "/logos/index/fundedtradersglobal.webp",
+    "officialURL": "https://fundedtradersglobal.com/"
   },
   {
     "name": "Funded Traders Pro",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedtraderspro",
-    "logo": "/logos/index/fundedtraderspro.png"
+    "logo": "/logos/index/fundedtraderspro.png",
+    "officialURL": "https://fundedtraderspro.com/"
   },
   {
     "name": "Funded Trading Plus",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedtradingplus",
-    "logo": "/logos/index/fundedtradingplus.png"
+    "logo": "/logos/index/fundedtradingplus.png",
+    "officialURL": "https://fundedtradingplus.com/"
   },
   {
     "name": "Funded7",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/funded7",
-    "logo": "/logos/index/funded7.svg"
+    "logo": "/logos/index/funded7.svg",
+    "officialURL": "https://funded7.com/"
   },
   {
     "name": "Fundedbit",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/fundedbit",
-    "logo": "/logos/index/fundedbit.png"
+    "logo": "/logos/index/fundedbit.png",
+    "officialURL": "https://fundedbit.com/"
   },
   {
     "name": "FundedBull",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedbull",
-    "logo": "/logos/index/fundedbull.jpg"
+    "logo": "/logos/index/fundedbull.jpg",
+    "officialURL": "https://fundedbull.com/"
   },
   {
     "name": "FundedCobra",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedcobra",
-    "logo": "/logos/index/fundedcobra.png"
+    "logo": "/logos/index/fundedcobra.png",
+    "officialURL": "https://fundedcobra.com/"
   },
   {
     "name": "FundedFast",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedfast",
-    "logo": "/logos/index/fundedfast.jpg"
+    "logo": "/logos/index/fundedfast.jpg",
+    "officialURL": "https://fundedfast.com/"
   },
   {
     "name": "FundedFun",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedfun",
-    "logo": "/logos/index/fundedfun.jpg"
+    "logo": "/logos/index/fundedfun.jpg",
+    "officialURL": "https://fundedfun.com/"
   },
   {
     "name": "FundedFX",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedfx",
-    "logo": "/logos/index/fundedfx.png"
+    "logo": "/logos/index/fundedfx.png",
+    "officialURL": "https://fundedfx.com/"
   },
   {
     "name": "FundedHero Futures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/fundedhero",
-    "logo": "/logos/index/fundedhero.png"
+    "logo": "/logos/index/fundedhero.png",
+    "officialURL": "https://fundedhero.com/"
   },
   {
     "name": "FundedNext",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundednext",
-    "logo": "/logos/index/fundednext.png"
+    "logo": "/logos/index/fundednext.png",
+    "officialURL": "https://fundednext.com"
   },
   {
     "name": "FundedPro",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/thefundedpro",
-    "logo": "/logos/index/thefundedpro.png"
+    "logo": "/logos/index/thefundedpro.png",
+    "officialURL": "https://thefundedpro.com/"
   },
   {
     "name": "FundedVerse",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedverse",
-    "logo": "/logos/index/fundedverse.png"
+    "logo": "/logos/index/fundedverse.png",
+    "officialURL": "https://fundedverse.com/"
   },
   {
     "name": "FunderPro",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/funderpro",
-    "logo": "/logos/index/funderpro.webp"
+    "logo": "/logos/index/funderpro.webp",
+    "officialURL": "https://funderpro.com/"
   },
   {
     "name": "Funding Pips",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundingpips",
-    "logo": "/logos/index/fundingpips.png"
+    "logo": "/logos/index/fundingpips.png",
+    "officialURL": "https://fundingpips.com/"
   },
   {
     "name": "Funding Predicts",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/fundingpredicts",
-    "logo": "/logos/index/fundingpredicts.svg"
+    "logo": "/logos/index/fundingpredicts.svg",
+    "officialURL": "https://fundingpredicts.com/"
   },
   {
     "name": "Funding Traders",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundingtraders",
-    "logo": "/logos/index/fundingtraders.png"
+    "logo": "/logos/index/fundingtraders.png",
+    "officialURL": "https://fundingtraders.com/"
   },
   {
     "name": "Funding Your Trades",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundingyourtrades",
-    "logo": "/logos/index/fundingyourtrades.png"
+    "logo": "/logos/index/fundingyourtrades.png",
+    "officialURL": "https://fundingyourtrades.com/"
   },
   {
     "name": "FundingRock",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundingrock",
-    "logo": "/logos/index/fundingrock.png"
+    "logo": "/logos/index/fundingrock.png",
+    "officialURL": "https://www.fundingrock.com/"
   },
   {
     "name": "FundYourFX",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundyourfx",
-    "logo": "/logos/index/fundyourfx.png"
+    "logo": "/logos/index/fundyourfx.png",
+    "officialURL": "https://fundyourfx.io/"
   },
   {
     "name": "FuturesElite",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/futureselite",
-    "logo": "/logos/index/futureselite.svg"
+    "logo": "/logos/index/futureselite.svg",
+    "officialURL": "https://app.futureselite.com"
   },
   {
     "name": "FX2 Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fx2funding",
-    "logo": "/logos/index/fx2funding.png"
+    "logo": "/logos/index/fx2funding.png",
+    "officialURL": "https://fx2funding.com/"
   },
   {
     "name": "FXC Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fundedfxc",
-    "logo": "/logos/index/fundedfxc.png"
+    "logo": "/logos/index/fundedfxc.png",
+    "officialURL": "https://fxcentrum.com/"
   },
   {
     "name": "FXIFY",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/fxify",
-    "logo": "/logos/index/fxify.png"
+    "logo": "/logos/index/fxify.png",
+    "officialURL": "https://fxify.com/"
   },
   {
     "name": "Get Funded Now",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/getfundednow",
-    "logo": "/logos/index/getfundednow.png"
+    "logo": "/logos/index/getfundednow.png",
+    "officialURL": "https://getfundednow.com/"
   },
   {
     "name": "Goat Funded Futures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/goatfundedfutures",
-    "logo": "/logos/index/goatfundedfutures.png"
+    "logo": "/logos/index/goatfundedfutures.png",
+    "officialURL": "https://goatfundedfutures.com/"
   },
   {
     "name": "Gold Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/goldfunding",
-    "logo": "/logos/index/goldfunding.png"
+    "logo": "/logos/index/goldfunding.png",
+    "officialURL": "https://goldfunding.io/"
   },
   {
     "name": "Halcyon Trader Funding",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/halcyontraderfunding",
-    "logo": "/logos/index/halcyontraderfunding.svg"
+    "logo": "/logos/index/halcyontraderfunding.svg",
+    "officialURL": "https://halcyontraderfunding.com/"
   },
   {
     "name": "Hantec Trader",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/hantectrader",
-    "logo": "/logos/index/hantectrader.svg"
+    "logo": "/logos/index/hantectrader.svg",
+    "officialURL": "https://htrader.hmarkets.com/"
   },
   {
     "name": "Hash Hedge",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/hashhedge",
-    "logo": "/logos/index/hashhedge.jpg"
+    "logo": "/logos/index/hashhedge.jpg",
+    "officialURL": "https://hashhedge.com/"
   },
   {
     "name": "Hex Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/hexfunded",
-    "logo": "/logos/index/hexfunded.svg"
+    "logo": "/logos/index/hexfunded.svg",
+    "officialURL": "https://hexfunded.com/"
   },
   {
     "name": "Hola Prime",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/holaprime",
-    "logo": "/logos/index/holaprime.png"
+    "logo": "/logos/index/holaprime.png",
+    "officialURL": "https://holaprime.com/"
   },
   {
     "name": "HUMBPROP",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/humbprop",
-    "logo": "/logos/index/humbprop.svg"
+    "logo": "/logos/index/humbprop.svg",
+    "officialURL": null
   },
   {
     "name": "Hydra Funding",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/hydrafunding",
-    "logo": "/logos/index/hydrafunding.png"
+    "logo": "/logos/index/hydrafunding.png",
+    "officialURL": "https://hydrafunding.io/"
   },
   {
     "name": "Hyper Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/hyperfunding",
-    "logo": "/logos/index/hyperfunding.png"
+    "logo": "/logos/index/hyperfunding.png",
+    "officialURL": "https://www.thehyperfunding.com/"
   },
   {
     "name": "HyperPNL",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/hyperpnl",
-    "logo": "/logos/index/hyperpnl.png"
+    "logo": "/logos/index/hyperpnl.png",
+    "officialURL": "https://hyperpnl.com/"
   },
   {
     "name": "HyroTrader",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/hyrotrader",
-    "logo": "/logos/index/hyrotrader.png"
+    "logo": "/logos/index/hyrotrader.png",
+    "officialURL": "https://www.hyrotrader.com/"
   },
   {
     "name": "IC Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/icfunded",
-    "logo": "/logos/index/icfunded.png"
+    "logo": "/logos/index/icfunded.png",
+    "officialURL": "https://www.icfunded.com/"
   },
   {
     "name": "iFunds.io",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/ifundsio",
-    "logo": "/logos/index/ifundsio.png"
+    "logo": "/logos/index/ifundsio.png",
+    "officialURL": "https://ifunds.io/"
   },
   {
     "name": "Imperial Trader Funding",
     "category": "Stocks",
     "sourceURL": "https://propfirmmap.com/firms/imperialtraderfunding",
-    "logo": "/logos/index/imperialtraderfunding.png"
+    "logo": "/logos/index/imperialtraderfunding.png",
+    "officialURL": "https://imperialtraderfunding.com/"
   },
   {
     "name": "Instant Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/instantfunding",
-    "logo": "/logos/index/instantfunding.png"
+    "logo": "/logos/index/instantfunding.png",
+    "officialURL": "https://instantfunding.com/"
   },
   {
     "name": "Investabl",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/investabl",
-    "logo": "/logos/index/investabl.svg"
+    "logo": "/logos/index/investabl.svg",
+    "officialURL": "https://app.investabl.ai/"
   },
   {
     "name": "IQ Capital",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/iqcapital",
-    "logo": "/logos/index/iqcapital.svg"
+    "logo": "/logos/index/iqcapital.svg",
+    "officialURL": "https://www.iqcapital.io/"
   },
   {
     "name": "JoinX Capital",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/joinxcapital",
-    "logo": "/logos/index/joinxcapital.png"
+    "logo": "/logos/index/joinxcapital.png",
+    "officialURL": "https://joinx.capital/"
   },
   {
     "name": "Lark Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/larkfunding",
-    "logo": "/logos/index/larkfunding.png"
+    "logo": "/logos/index/larkfunding.png",
+    "officialURL": "https://larkfunding.com/"
   },
   {
     "name": "Leeloo Trading",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/leelootrading",
-    "logo": "/logos/index/leelootrading.png"
+    "logo": "/logos/index/leelootrading.png",
+    "officialURL": "https://leelootrading.com/"
   },
   {
     "name": "Legacy Funded Futures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/legacyfundedfutures",
-    "logo": "/logos/index/legacyfundedfutures.jpg"
+    "logo": "/logos/index/legacyfundedfutures.jpg",
+    "officialURL": "https://legacyfundedfutures.com/"
   },
   {
     "name": "Legends Trading",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/legendstrading",
-    "logo": "/logos/index/legendstrading.png"
+    "logo": "/logos/index/legendstrading.png",
+    "officialURL": "https://thelegendstrading.com/"
   },
   {
     "name": "LegionFunding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/legionfunding",
-    "logo": "/logos/index/legionfunding.svg"
+    "logo": "/logos/index/legionfunding.svg",
+    "officialURL": "https://legionfunding.com/"
   },
   {
     "name": "LifeUp Trading",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/lifeuptrading",
-    "logo": "/logos/index/lifeuptrading.png"
+    "logo": "/logos/index/lifeuptrading.png",
+    "officialURL": "https://www.lifeuptrading.com/en-us"
   },
   {
     "name": "Livx Capital",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/livxcapital",
-    "logo": "/logos/index/livxcapital.png"
+    "logo": "/logos/index/livxcapital.png",
+    "officialURL": "https://www.livxcapital.com/"
   },
   {
     "name": "Lucid Trading",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/lucidtrading",
-    "logo": "/logos/index/lucidtrading.png"
+    "logo": "/logos/index/lucidtrading.png",
+    "officialURL": "https://lucidtrading.com/"
   },
   {
     "name": "Lux Trading Firm",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/luxtradingfirm",
-    "logo": "/logos/index/luxtradingfirm.png"
+    "logo": "/logos/index/luxtradingfirm.png",
+    "officialURL": "https://luxtradingfirm.com/"
   },
   {
     "name": "MasterFunders",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/masterfunders",
-    "logo": "/logos/index/masterfunders.png"
+    "logo": "/logos/index/masterfunders.png",
+    "officialURL": "https://masterfunders.com/"
   },
   {
     "name": "Maven Trading",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/maventrading",
-    "logo": "/logos/index/maventrading.png"
+    "logo": "/logos/index/maventrading.png",
+    "officialURL": "https://maventrading.com/"
   },
   {
     "name": "Ment Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/mentfunding",
-    "logo": "/logos/index/mentfunding.svg"
+    "logo": "/logos/index/mentfunding.svg",
+    "officialURL": "https://www.mentfunding.com/"
   },
   {
     "name": "MFA Traders",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/mfatraders",
-    "logo": "/logos/index/mfatraders.png"
+    "logo": "/logos/index/mfatraders.png",
+    "officialURL": "https://mfatraders.com/"
   },
   {
     "name": "MILTRADERS",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/miltraders",
-    "logo": "/logos/index/miltraders.png"
+    "logo": "/logos/index/miltraders.png",
+    "officialURL": "https://miltraders.com/"
   },
   {
     "name": "Moneta Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/monetafunded",
-    "logo": "/logos/index/monetafunded.svg"
+    "logo": "/logos/index/monetafunded.svg",
+    "officialURL": "https://monetafunded.com/"
   },
   {
     "name": "MyFundedCapital",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/myfundedcapital",
-    "logo": "/logos/index/myfundedcapital.png"
+    "logo": "/logos/index/myfundedcapital.png",
+    "officialURL": "https://myfundedcapital.com/"
   },
   {
     "name": "MyFundedFutures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/myfundedfutures",
-    "logo": "/logos/index/myfundedfutures.png"
+    "logo": "/logos/index/myfundedfutures.png",
+    "officialURL": "https://myfundedfutures.com"
   },
   {
     "name": "NEOM Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/neomaaafunded",
-    "logo": "/logos/index/neomaaafunded.svg"
+    "logo": "/logos/index/neomaaafunded.svg",
+    "officialURL": "https://neomaaa.com/"
   },
   {
     "name": "Nexgen ProTrader Funding",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/nexgenprotrader",
-    "logo": "/logos/index/nexgenprotrader.png"
+    "logo": "/logos/index/nexgenprotrader.png",
+    "officialURL": "https://nexgenprotraderfunding.com/"
   },
   {
     "name": "Next Level Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/nextlevelfunded",
-    "logo": "/logos/index/nextlevelfunded.png"
+    "logo": "/logos/index/nextlevelfunded.png",
+    "officialURL": "https://www.nextlevelfunded.com/"
   },
   {
     "name": "NextGen Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/thenextgenfunding",
-    "logo": "/logos/index/thenextgenfunding.svg"
+    "logo": "/logos/index/thenextgenfunding.svg",
+    "officialURL": "https://thenextgenfunding.com/"
   },
   {
     "name": "Nextproptrader",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/nextproptrader",
-    "logo": "/logos/index/nextproptrader.png"
+    "logo": "/logos/index/nextproptrader.png",
+    "officialURL": "https://nextproptrader.com/"
   },
   {
     "name": "Nordic Funder",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/nordicfunder",
-    "logo": "/logos/index/nordicfunder.png"
+    "logo": "/logos/index/nordicfunder.png",
+    "officialURL": "https://nordicfunder.com/"
   },
   {
     "name": "Nova Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/novafunded",
-    "logo": "/logos/index/novafunded.png"
+    "logo": "/logos/index/novafunded.png",
+    "officialURL": "https://novafunded.com/"
   },
   {
     "name": "NYS Markets",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/nysmarkets",
-    "logo": "/logos/index/nysmarkets.png"
+    "logo": "/logos/index/nysmarkets.png",
+    "officialURL": "https://nysmarkets.com/"
   },
   {
     "name": "OFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/ofunded",
-    "logo": "/logos/index/ofunded.svg"
+    "logo": "/logos/index/ofunded.svg",
+    "officialURL": "https://ofunded.com/"
   },
   {
     "name": "One Traders Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/onetradersfunding",
-    "logo": "/logos/index/onetradersfunding.png"
+    "logo": "/logos/index/onetradersfunding.png",
+    "officialURL": "https://onetradersfunding.com/"
   },
   {
     "name": "OneFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/onefunded",
-    "logo": "/logos/index/onefunded.png"
+    "logo": "/logos/index/onefunded.png",
+    "officialURL": "https://onefunded.com/"
   },
   {
     "name": "OneStopProp",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/onestopprop",
-    "logo": "/logos/index/onestopprop.png"
+    "logo": "/logos/index/onestopprop.png",
+    "officialURL": "https://onestopprop.com/"
   },
   {
     "name": "OneUp Trader",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/oneuptrader",
-    "logo": "/logos/index/oneuptrader.png"
+    "logo": "/logos/index/oneuptrader.png",
+    "officialURL": "https://www.oneuptrader.com/"
   },
   {
     "name": "Onyx Futures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/onyxfutures",
-    "logo": "/logos/index/onyxfutures.png"
+    "logo": "/logos/index/onyxfutures.png",
+    "officialURL": "https://onyx-futures.com/"
   },
   {
     "name": "Orion Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/orionfunded",
-    "logo": "/logos/index/orionfunded.jpg"
+    "logo": "/logos/index/orionfunded.jpg",
+    "officialURL": "https://www.orionfunded.com/"
   },
   {
     "name": "Paid To Trade",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/paidtotrade",
-    "logo": "/logos/index/paidtotrade.png"
+    "logo": "/logos/index/paidtotrade.png",
+    "officialURL": "https://paidtotrade.net/"
   },
   {
     "name": "Phoenix Trader Funding",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/phoenixtraderfunding",
-    "logo": "/logos/index/phoenixtraderfunding.png"
+    "logo": "/logos/index/phoenixtraderfunding.png",
+    "officialURL": "https://phoenixtraderfunding.com/"
   },
   {
     "name": "PineX Capital",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/pinexcapital",
-    "logo": "/logos/index/pinexcapital.png"
+    "logo": "/logos/index/pinexcapital.png",
+    "officialURL": "https://pinexcapital.com/"
   },
   {
     "name": "Pipcy",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/pipcy",
-    "logo": "/logos/index/pipcy.png"
+    "logo": "/logos/index/pipcy.png",
+    "officialURL": "https://pipcy.com/"
   },
   {
     "name": "Pipster",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/pipster",
-    "logo": "/logos/index/pipster.png"
+    "logo": "/logos/index/pipster.png",
+    "officialURL": "https://www.pipster.io/"
   },
   {
     "name": "Pipstone Capital",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/pipstonecapital",
-    "logo": "/logos/index/pipstonecapital.png"
+    "logo": "/logos/index/pipstonecapital.png",
+    "officialURL": "https://pipstonecapital.com/"
   },
   {
     "name": "Pivex Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/pivexfunded",
-    "logo": "/logos/index/pivexfunded.svg"
+    "logo": "/logos/index/pivexfunded.svg",
+    "officialURL": "https://pivexfunded.com/"
   },
   {
     "name": "Propanium",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/propanium",
-    "logo": "/logos/index/propanium.png"
+    "logo": "/logos/index/propanium.png",
+    "officialURL": "https://propanium.com/"
   },
   {
     "name": "PropEd Capital",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/propedcapital",
-    "logo": "/logos/index/propedcapital.png"
+    "logo": "/logos/index/propedcapital.png",
+    "officialURL": "https://propedcapital.com/"
   },
   {
     "name": "PropFunded",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/propfunded",
-    "logo": "/logos/index/propfunded.svg"
+    "logo": "/logos/index/propfunded.svg",
+    "officialURL": "https://propfunded.ai/"
   },
   {
     "name": "PropHelix",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/prophelix",
-    "logo": "/logos/index/prophelix.jpg"
+    "logo": "/logos/index/prophelix.jpg",
+    "officialURL": "https://www.prophelix.com/"
   },
   {
     "name": "Propify",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/propify",
-    "logo": "/logos/index/propify.png"
+    "logo": "/logos/index/propify.png",
+    "officialURL": "https://propifyfunded.com/"
   },
   {
     "name": "PropMarket",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/propmarket",
-    "logo": "/logos/index/propmarket.png"
+    "logo": "/logos/index/propmarket.png",
+    "officialURL": "https://prop.market/"
   },
   {
     "name": "Propr",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/propr",
-    "logo": "/logos/index/propr.svg"
+    "logo": "/logos/index/propr.svg",
+    "officialURL": "https://www.propr.xyz/"
   },
   {
     "name": "PropShopTrader",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/propshoptrader",
-    "logo": "/logos/index/propshoptrader.png"
+    "logo": "/logos/index/propshoptrader.png",
+    "officialURL": "https://propshoptrader.com/"
   },
   {
     "name": "PropW",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/propw",
-    "logo": "/logos/index/propw.png"
+    "logo": "/logos/index/propw.png",
+    "officialURL": "https://www.propw.com/"
   },
   {
     "name": "PropXP",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/propxp",
-    "logo": "/logos/index/propxp.png"
+    "logo": "/logos/index/propxp.png",
+    "officialURL": "https://propxp.com/"
   },
   {
     "name": "Purdia Capital",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/purdiacapital",
-    "logo": "/logos/index/purdiacapital.jpg"
+    "logo": "/logos/index/purdiacapital.jpg",
+    "officialURL": "https://purdia.com/"
   },
   {
     "name": "Quant Tekel (Ascendx)",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/quanttekelascendx",
-    "logo": "/logos/index/quanttekelascendx.png"
+    "logo": "/logos/index/quanttekelascendx.png",
+    "officialURL": "https://quanttekel.com/"
   },
   {
     "name": "Quantum Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/quantumfunding",
-    "logo": "/logos/index/quantumfunding.png"
+    "logo": "/logos/index/quantumfunding.png",
+    "officialURL": "https://quantumfunding.io/"
   },
   {
     "name": "RebelsFunding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/rebelsfunding",
-    "logo": "/logos/index/rebelsfunding.png"
+    "logo": "/logos/index/rebelsfunding.png",
+    "officialURL": "https://rebelsfunding.com/"
   },
   {
     "name": "Redline Futures Funding",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/redlinefuturesfunding",
-    "logo": "/logos/index/redlinefuturesfunding.jpg"
+    "logo": "/logos/index/redlinefuturesfunding.jpg",
+    "officialURL": "https://www.redlinefuturesfunding.com/"
   },
   {
     "name": "Rev One Trading",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/revonetrading",
-    "logo": "/logos/index/revonetrading.png"
+    "logo": "/logos/index/revonetrading.png",
+    "officialURL": "https://revonetrading.com/"
   },
   {
     "name": "Rhodium FX",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/rhodiumfx",
-    "logo": "/logos/index/rhodiumfx.png"
+    "logo": "/logos/index/rhodiumfx.png",
+    "officialURL": "https://rhodiumfx.com/"
   },
   {
     "name": "SabioTrade",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/sabiotrade",
-    "logo": "/logos/index/sabiotrade.jpg"
+    "logo": "/logos/index/sabiotrade.jpg",
+    "officialURL": "https://sabiotrade.com/"
   },
   {
     "name": "Savius",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/savius",
-    "logo": "/logos/index/savius.svg"
+    "logo": "/logos/index/savius.svg",
+    "officialURL": "https://www.saviusllc.com/"
   },
   {
     "name": "SFX Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/sfxfunded",
-    "logo": "/logos/index/sfxfunded.png"
+    "logo": "/logos/index/sfxfunded.png",
+    "officialURL": "https://sfxfunded.com/"
   },
   {
     "name": "Shark Futures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/sharkfutures",
-    "logo": "/logos/index/sharkfutures.png"
+    "logo": "/logos/index/sharkfutures.png",
+    "officialURL": "https://www.sharkfutures.com/"
   },
   {
     "name": "SharkFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/sharkfunded",
-    "logo": "/logos/index/sharkfunded.svg"
+    "logo": "/logos/index/sharkfunded.svg",
+    "officialURL": "https://sharkfunded.com/"
   },
   {
     "name": "SiegPath",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/siegpath",
-    "logo": "/logos/index/siegpath.svg"
+    "logo": "/logos/index/siegpath.svg",
+    "officialURL": "https://siegpath.com/"
   },
   {
     "name": "SizeProp",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/sizeprop",
-    "logo": "/logos/index/sizeprop.svg"
+    "logo": "/logos/index/sizeprop.svg",
+    "officialURL": "https://www.sizeprop.com/"
   },
   {
     "name": "Space Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/spacefunded",
-    "logo": "/logos/index/spacefunded.jpg"
+    "logo": "/logos/index/spacefunded.jpg",
+    "officialURL": "https://spacefundedhq.com/"
   },
   {
     "name": "SuperFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/superfunded",
-    "logo": "/logos/index/superfunded.svg"
+    "logo": "/logos/index/superfunded.svg",
+    "officialURL": "https://superfunded.com/"
   },
   {
     "name": "Sway Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/swayfunded",
-    "logo": "/logos/index/swayfunded.png"
+    "logo": "/logos/index/swayfunded.png",
+    "officialURL": "https://swayfunded.com/"
   },
   {
     "name": "Swiss Firmup",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/swissfirmup",
-    "logo": "/logos/index/swissfirmup.png"
+    "logo": "/logos/index/swissfirmup.png",
+    "officialURL": "https://swissfirmup.com/"
   },
   {
     "name": "T4TCapitalFM",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/t4tcapitalfm",
-    "logo": "/logos/index/t4tcapitalfm.png"
+    "logo": "/logos/index/t4tcapitalfm.png",
+    "officialURL": "https://proptradr.com/"
   },
   {
     "name": "Take Profit Trader",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/takeprofittrader",
-    "logo": "/logos/index/takeprofittrader.png"
+    "logo": "/logos/index/takeprofittrader.png",
+    "officialURL": "https://takeprofittrader.com"
   },
   {
     "name": "TakeCap FT",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/takecap",
-    "logo": "/logos/index/takecap.png"
+    "logo": "/logos/index/takecap.png",
+    "officialURL": "https://takecapft.com/"
   },
   {
     "name": "Taurus Arena",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/taurusarena",
-    "logo": "/logos/index/taurusarena.webp"
+    "logo": "/logos/index/taurusarena.webp",
+    "officialURL": "https://taurusarena.com/"
   },
   {
     "name": "TEFS",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/tefs",
-    "logo": "/logos/index/tefs.svg"
+    "logo": "/logos/index/tefs.svg",
+    "officialURL": "https://tefs.com/"
   },
   {
     "name": "TenTrade",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/tentrade",
-    "logo": "/logos/index/tentrade.webp"
+    "logo": "/logos/index/tentrade.webp",
+    "officialURL": "https://tentrade.com/"
   },
   {
     "name": "Texaris",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/texaris",
-    "logo": "/logos/index/texaris.png"
+    "logo": "/logos/index/texaris.png",
+    "officialURL": "https://texaris.com/"
   },
   {
     "name": "The Concept Trading",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/theconcepttrading",
-    "logo": "/logos/index/theconcepttrading.png"
+    "logo": "/logos/index/theconcepttrading.png",
+    "officialURL": "https://prop.theconcepttrader.com/"
   },
   {
     "name": "The Funded Way",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/thefundedway",
-    "logo": "/logos/index/thefundedway.svg"
+    "logo": "/logos/index/thefundedway.svg",
+    "officialURL": "https://thefundedway.com/"
   },
   {
     "name": "The Proven Trader",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/theproventrader",
-    "logo": "/logos/index/theproventrader.png"
+    "logo": "/logos/index/theproventrader.png",
+    "officialURL": "https://theproventrader.com/"
   },
   {
     "name": "The TradeMakers",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/thetrademakers",
-    "logo": "/logos/index/thetrademakers.svg"
+    "logo": "/logos/index/thetrademakers.svg",
+    "officialURL": "https://thetrademakers.com/"
   },
   {
     "name": "The Trading Pit",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/thetradingpit",
-    "logo": "/logos/index/thetradingpit.svg"
+    "logo": "/logos/index/thetradingpit.svg",
+    "officialURL": "https://www.thetradingpit.com/"
   },
   {
     "name": "The5ers",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/the5ers",
-    "logo": "/logos/index/the5ers.png"
+    "logo": "/logos/index/the5ers.png",
+    "officialURL": "https://the5ers.com/high-stakes/"
   },
   {
     "name": "ThinkCapital",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/thinkcapital",
-    "logo": "/logos/index/thinkcapital.png"
+    "logo": "/logos/index/thinkcapital.png",
+    "officialURL": "https://www.thinkcapital.com/"
   },
   {
     "name": "Top One Futures",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/toponefutures",
-    "logo": "/logos/index/toponefutures.png"
+    "logo": "/logos/index/toponefutures.png",
+    "officialURL": "https://www.toponefutures.com/"
   },
   {
     "name": "Top One Trader",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/toponetrader",
-    "logo": "/logos/index/toponetrader.png"
+    "logo": "/logos/index/toponetrader.png",
+    "officialURL": "https://www.toponetrader.com/"
   },
   {
     "name": "Topstep",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/topstep",
-    "logo": "/logos/index/topstep.svg"
+    "logo": "/logos/index/topstep.svg",
+    "officialURL": "https://www.topstep.com"
   },
   {
     "name": "TopTraderPrime",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/toptraderprime",
-    "logo": "/logos/index/toptraderprime.png"
+    "logo": "/logos/index/toptraderprime.png",
+    "officialURL": "https://toptraderprime.com/"
   },
   {
     "name": "Trade The Pool",
     "category": "Stocks",
     "sourceURL": "https://propfirmmap.com/firms/tradethepool",
-    "logo": "/logos/index/tradethepool.png"
+    "logo": "/logos/index/tradethepool.png",
+    "officialURL": "https://www.tradethepool.com"
   },
   {
     "name": "TradeApp",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/tradeapp",
-    "logo": "/logos/index/tradeapp.svg"
+    "logo": "/logos/index/tradeapp.svg",
+    "officialURL": "https://tradeapp.com/"
   },
   {
     "name": "TradeDay",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/tradeday",
-    "logo": "/logos/index/tradeday.svg"
+    "logo": "/logos/index/tradeday.svg",
+    "officialURL": "https://www.tradeday.com/"
   },
   {
     "name": "TradeFundrr",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/tradefundrr",
-    "logo": "/logos/index/tradefundrr.png"
+    "logo": "/logos/index/tradefundrr.png",
+    "officialURL": "https://tradefundrr.com/"
   },
   {
     "name": "Tradeify",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/tradeify",
-    "logo": "/logos/index/tradeify.png"
+    "logo": "/logos/index/tradeify.png",
+    "officialURL": "https://tradeify.co/"
   },
   {
     "name": "trader2B",
     "category": "Stocks",
     "sourceURL": "https://propfirmmap.com/firms/trader2b",
-    "logo": "/logos/index/trader2b.png"
+    "logo": "/logos/index/trader2b.png",
+    "officialURL": "https://trader2b.com/"
   },
   {
     "name": "Traders Launch",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/traderslaunch",
-    "logo": "/logos/index/traderslaunch.svg"
+    "logo": "/logos/index/traderslaunch.svg",
+    "officialURL": "https://traderslaunch.com/"
   },
   {
     "name": "TradersEdgeFX",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/tradersedgefx",
-    "logo": "/logos/index/tradersedgefx.png"
+    "logo": "/logos/index/tradersedgefx.png",
+    "officialURL": "https://tradersedgefx.com/"
   },
   {
     "name": "Tradexprop",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/tradexprop",
-    "logo": "/logos/index/tradexprop.jpg"
+    "logo": "/logos/index/tradexprop.jpg",
+    "officialURL": "https://tradexprop.com/"
   },
   {
     "name": "TX3 Funding",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/tx3funding",
-    "logo": "/logos/index/tx3funding.svg"
+    "logo": "/logos/index/tx3funding.svg",
+    "officialURL": "https://www.tx3funding.com/"
   },
   {
     "name": "Uprofit",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/uprofit",
-    "logo": "/logos/index/uprofit.png"
+    "logo": "/logos/index/uprofit.png",
+    "officialURL": "https://uprofit.com/"
   },
   {
     "name": "Upscale",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/upscale",
-    "logo": "/logos/index/upscale.png"
+    "logo": "/logos/index/upscale.png",
+    "officialURL": "https://upscale.trade/"
   },
   {
     "name": "Vanquish Trader",
     "category": "Stocks",
     "sourceURL": "https://propfirmmap.com/firms/vanquishtrader",
-    "logo": "/logos/index/vanquishtrader.png"
+    "logo": "/logos/index/vanquishtrader.png",
+    "officialURL": "https://www.vanquishtrader.com/"
   },
   {
     "name": "Vanta Trading",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/vantatrading",
-    "logo": "/logos/index/vantatrading.png"
+    "logo": "/logos/index/vantatrading.png",
+    "officialURL": "https://www.vantatrading.io/"
   },
   {
     "name": "Velotrade",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/velotrade",
-    "logo": "/logos/index/velotrade.svg"
+    "logo": "/logos/index/velotrade.svg",
+    "officialURL": "https://velotrade.com/"
   },
   {
     "name": "Wall Street Funded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/wallstreetfunded",
-    "logo": "/logos/index/wallstreetfunded.png"
+    "logo": "/logos/index/wallstreetfunded.png",
+    "officialURL": "https://wsfunded.com/"
   },
   {
     "name": "WarBux",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/warbux",
-    "logo": "/logos/index/warbux.png"
+    "logo": "/logos/index/warbux.png",
+    "officialURL": "https://warbuxbtc.com/"
   },
   {
     "name": "We Fund You Trade",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/wefundyoutrade",
-    "logo": "/logos/index/wefundyoutrade.webp"
+    "logo": "/logos/index/wefundyoutrade.webp",
+    "officialURL": "https://wfyt.com/"
   },
   {
     "name": "WeGetFunded",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/wegetfunded",
-    "logo": "/logos/index/wegetfunded.svg"
+    "logo": "/logos/index/wegetfunded.svg",
+    "officialURL": "https://wegetfunded.com/"
   },
   {
     "name": "WeMasterTrade",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/wemastertrade",
-    "logo": "/logos/index/wemastertrade.png"
+    "logo": "/logos/index/wemastertrade.png",
+    "officialURL": "https://wemastertrade.com/"
   },
   {
     "name": "WenCrypto",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/wencrypto",
-    "logo": "/logos/index/wencrypto.png"
+    "logo": "/logos/index/wencrypto.png",
+    "officialURL": "https://wencrypto.com/"
   },
   {
     "name": "Winbance",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/winbance",
-    "logo": "/logos/index/winbance.jpg"
+    "logo": "/logos/index/winbance.jpg",
+    "officialURL": "https://www.winbance.com/"
   },
   {
     "name": "XPIPS",
     "category": "CFD",
     "sourceURL": "https://propfirmmap.com/firms/xpips",
-    "logo": "/logos/index/xpips.png"
+    "logo": "/logos/index/xpips.png",
+    "officialURL": "https://xpips.com/"
   },
   {
     "name": "Ylos Trading",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/ylostrading",
-    "logo": "/logos/index/ylostrading.svg"
+    "logo": "/logos/index/ylostrading.svg",
+    "officialURL": "https://www.ylostrading.com/"
   },
   {
     "name": "YRM Prop",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/yrmprop",
-    "logo": "/logos/index/yrmprop.png"
+    "logo": "/logos/index/yrmprop.png",
+    "officialURL": "https://yrmprop.com/"
   },
   {
     "name": "Zenit Funding",
     "category": "Futures",
     "sourceURL": "https://propfirmmap.com/firms/zenitfunding",
-    "logo": "/logos/index/zenitfunding.svg"
+    "logo": "/logos/index/zenitfunding.svg",
+    "officialURL": "https://www.zenitfunding.com/"
   },
   {
     "name": "Zeno Traders",
     "category": "Crypto",
     "sourceURL": "https://propfirmmap.com/firms/zenotraders",
-    "logo": "/logos/index/zenotraders.png"
+    "logo": "/logos/index/zenotraders.png",
+    "officialURL": "https://zenotraders.com/"
   }
 ]
