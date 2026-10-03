@@ -1,6 +1,38 @@
 {
-  "aquafunded": {"affiliateURL": null, "promoCode": "ZABERFX"},
-  "aquafunded-futures": {"affiliateURL": null, "promoCode": "ZABERFX"},
-  "texaris": {"affiliateURL": null, "promoCode": "ZABERFX"},
-  "forex-funded-traders": {"affiliateURL": null, "promoCode": "ZABERFX"}
+  "aquafunded": {
+    "affiliateURL": "https://aquafunded.com/?afmc=Zaberfx",
+    "promoCode": "ZABERFX"
+  },
+  "aquafunded-futures": {
+    "affiliateURL": "https://aquafunded.com/?afmc=Zaberfx",
+    "promoCode": "ZABERFX"
+  },
+  "texaris": {
+    "affiliateURL": "https://app.texaris.com/checkout?referral_id=2ddcc28537dd65013754",
+    "promoCode": "CBS"
+  },
+  "forex-funded-traders": {
+    "affiliateURL": null,
+    "promoCode": "ZABERFX"
+  },
+  "funded-futures-family": {
+    "affiliateURL": "https://app.fundedfuturesfamily.com/affiliation/?ref_code=dc7ecb4c-8f3d-4203-a772-07deb0a82bb7",
+    "promoCode": "ZABERFX"
+  },
+  "my-funded-futures": {
+    "affiliateURL": "https://myfundedfutures.com/challenge?ref=5289",
+    "promoCode": "ZABERFX"
+  },
+  "tradeify-fx": {
+    "affiliateURL": "https://tracking.tradeifyfx.co/click?o=1&a=391&creative_id=1992",
+    "promoCode": "ZABERFX"
+  },
+  "blueberry-funded": {
+    "affiliateURL": "https://affiliates.blueberryfunded.com/Tracking/click/?affid=50153&campaign=10377&product_id=1&t_type=HomePage&t_lang=EN",
+    "promoCode": "ZABERFX"
+  },
+  "rhodium-fx": {
+    "affiliateURL": "https://rhodiumfx.com/ref/zabermaz",
+    "promoCode": "ZABERMAZ"
+  }
 }

@@ -16,5 +16,7 @@ test('public research surfaces do not contain clickable directory destinations',
 });
 test('every partnered profile and offer displays its copyable creator code',async()=>{
   for(const firm of firms.filter(f=>f.partner)){const html=await(await fetch(root+'/firms/'+firm.id)).text();assert.ok(html.includes(`Copy ${partners[firm.id].promoCode} promo code`),firm.id);}
-  const offers=await(await fetch(root+'/offers')).text();assert.equal((offers.match(/Copy ZABERFX promo code/g)||[]).length,4);
+  const offers=await(await fetch(root+'/offers')).text();for(const firm of firms.filter(f=>f.partner))assert.ok(offers.includes(`Copy ${partners[firm.id].promoCode} promo code`));
 });
+
+test('broker redirects preserve exact owner supplied URLs and stay outside prop categories',async()=>{const brokers=JSON.parse(await readFile(new URL('../lib/brokers.json',import.meta.url),'utf8'));for(const b of brokers){const r=await fetch(root+'/go/broker/'+b.id,{redirect:'manual'});assert.equal(r.headers.get('location'),b.affiliateURL);assert.ok(!firms.some(f=>f.id===b.id));assert.equal((await fetch(root+b.logo)).status,200);}assert.equal((await fetch(root+'/brokers')).status,200);assert.equal((await fetch(root+'/go/broker/unknown')).status,404);});
