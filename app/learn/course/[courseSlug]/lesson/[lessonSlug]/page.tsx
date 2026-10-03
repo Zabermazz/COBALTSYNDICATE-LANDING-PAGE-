@@ -1,0 +1,13 @@
+import {notFound} from 'next/navigation';
+import {authorizeLesson,lessonContent,progress} from '@/lib/education/catalogue';
+import {LearningShell,Hero,s} from '@/components/education/ui';
+import {LessonActions,AuthAction} from '@/components/education/actions';
+export const dynamic='force-dynamic';
+export const metadata={title:'Learning room',robots:{index:false,follow:false}};
+export default async function Lesson({params}:{params:Promise<{courseSlug:string;lessonSlug:string}>}) {
+  const {courseSlug,lessonSlug}=await params;const auth=await authorizeLesson(courseSlug,lessonSlug);if(!auth)notFound();
+  if(!auth.allowed)return <LearningShell><Hero tag="Protected learning" title={auth.lesson.title}><p>{auth.unavailable?'Membership verification is temporarily unavailable. Please try again shortly.':auth.access==='premium'?'This lesson is reserved for verified premium Telegram members.':'Sign in to access this member lesson.'}</p></Hero><div className={s.actions}><a className={s.primary} href="/login">Verify with Telegram →</a><a className={s.secondary} href={process.env.TELEGRAM_JOIN_URL||'https://t.me/zabermazz'}>Ask about premium membership ↗</a><a className={s.secondary} href={`/course/${courseSlug}`}>View curriculum</a></div>{auth.user&&<AuthAction action="recheck" label="Check membership again"/>}</LearningShell>;
+  const content=await lessonContent(auth.lesson.id);const saved=auth.user?(await progress(auth.user.telegram_id)).find(p=>p.lesson_id===auth.lesson.id):null;
+  const index=auth.lessons.findIndex(l=>l.id===auth.lesson.id),next=auth.lessons[index+1],previous=auth.lessons[index-1];
+  return <LearningShell><Hero tag={auth.course.title} title={auth.lesson.title}/><div className={s.lessonLayout}><article><div className={s.body}>{content?content.body.split('\n\n').map((p,i)=><p key={i}>{p}</p>):<p>This lesson’s content is being prepared.</p>}</div><LessonActions course={courseSlug} lesson={lessonSlug} signedIn={!!auth.user} completed={!!saved?.completed_at} initialSeconds={saved?.watched_seconds||0} hasVideo={!!content?.video_path} hasDownload={!!content?.download_path}/><div className={s.actions}>{previous&&<a className={s.secondary} href={`/learn/course/${courseSlug}/lesson/${previous.slug}`}>← Previous lesson</a>}{next&&<a className={s.primary} href={`/learn/course/${courseSlug}/lesson/${next.slug}`}>Next lesson →</a>}</div></article><aside className={s.sidebar}><span className={s.eyebrow}>Your curriculum</span>{auth.lessons.map(l=><a key={l.id} aria-current={l.id===auth.lesson.id?'page':undefined} href={`/learn/course/${courseSlug}/lesson/${l.slug}`}>{l.id===auth.lesson.id?'● ':''}{l.title}</a>)}<a href={`/course/${courseSlug}`}>Course overview →</a></aside></div></LearningShell>;
+}

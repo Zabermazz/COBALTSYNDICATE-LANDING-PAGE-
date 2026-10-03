@@ -1,0 +1,5 @@
+import {courses} from '@/lib/education/catalogue';
+import {LearningShell,Hero,CourseCards,s} from '@/components/education/ui';
+export const dynamic='force-dynamic';
+export const metadata={title:'Courses',description:'Build your trading knowledge with Cobalt Syndicate: foundations, gold and execution, and premium community learning.'};
+export default async function Courses(){let items;try{items=await courses();}catch{return <LearningShell><Hero tag="Cobalt education" title="Learning, one step at a time."/><p className={s.notice}>The catalogue is temporarily unavailable. Please try again shortly.</p></LearningShell>;}return <LearningShell><Hero tag="Cobalt education / Trade · Learn · Grow" title="Build understanding. Then build your process."><p>A clear learning path, from your first risk checklist to a more deliberate approach to execution. Start with the public lessons and explore what comes next.</p></Hero><CourseCards items={items}/><p className={`${s.notice} ${s.spaced}`}>Education, not trading signals or a promise of returns. Premium access follows your verified Telegram membership. Public reading lessons are open to everyone.</p></LearningShell>;}

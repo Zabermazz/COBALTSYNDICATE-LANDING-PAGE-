@@ -1,5 +1,9 @@
 # Cobalt Syndicate — Vercel edition
 
+## Telegram learning portal
+
+Courses, Telegram premium verification, private lesson access, progress and a team course editor are included. Read [the setup guide](docs/TELEGRAM_PREMIUM_SETUP.md), run `supabase-education.sql` followed by `supabase-education-seed.sql`, then configure the server environment variables and bot webhook. Public starter lessons work before setup; live member sign-in requires your own bot and Supabase project. The existing website features remain in place.
+
 All public pages, firm logos, comparison, search, calculator, Google Form and WhatsApp/Telegram links are included.
 
 1. Upload this folder to your Git repository. In Vercel, import it using the Next.js preset.
