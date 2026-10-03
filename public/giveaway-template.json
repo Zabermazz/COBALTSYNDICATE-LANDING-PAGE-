@@ -1,0 +1,25 @@
+[
+  {
+    "id": "your-firm-october-2026",
+    "firm": "Your firm",
+    "title": "Your firm account giveaway",
+    "accountSize": "$10K",
+    "accountType": "Instant account — confirm exact program",
+    "winners": 3,
+    "status": "draft",
+    "startsAt": "2026-10-25T18:00:00+05:30",
+    "endsAt": "2026-10-31T21:00:00+05:30",
+    "entryUrl": "",
+    "rules": "Replace with eligibility, eligible countries, age limit, free entry conditions, winner selection method, announcement date and prize delivery conditions. Account size is not a cash prize.",
+    "tasks": [
+      {
+        "label": "Visit our Telegram community",
+        "url": "https://t.me/zabermazz"
+      },
+      {
+        "label": "Submit your name, email and task proof in the entry form",
+        "url": ""
+      }
+    ]
+  }
+]
