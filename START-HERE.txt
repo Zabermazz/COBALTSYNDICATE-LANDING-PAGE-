@@ -1,0 +1,32 @@
+COBALT SYNDICATE — GITHUB + VERCEL
+
+1. Extract this ZIP.
+2. Upload ALL extracted files and folders into your GitHub repository.
+   package.json, package-lock.json and vercel.json must be at the repository root.
+   Upload the extracted contents, NOT the ZIP itself.
+   For a large number of files, use GitHub Desktop to publish the folder.
+3. In Vercel, choose Add New > Project and import that repository.
+4. Framework: Next.js. Root Directory: ./
+   Install command: npm ci
+   Build command: npm run build
+   Output directory: leave automatic.
+5. Deploy. Then set NEXT_PUBLIC_SITE_URL to the final https:// website URL
+   in Vercel environment variables and redeploy to enable correct indexing.
+
+INCLUDED
+Complete website source, all pages, images/logos, firm directory, comparison,
+creator/brand enquiry links, giveaway page and admin interface.
+
+GIVEAWAY DATABASE
+The website pages and Google enquiry form work without a database.
+Giveaway entries and admin controls require Supabase configuration:
+- Run supabase-giveaways.sql in your Supabase project SQL editor.
+- Set SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY in Vercel.
+- Set GIVEAWAY_ADMIN_TOKEN to a private random value of at least 32 characters.
+- Redeploy; enter that token at /admin to manage giveaways.
+Never put private keys in GitHub or prefix them with NEXT_PUBLIC.
+No passwords, personal responses or real credentials are included in this ZIP.
+
+See README.md for further details and current feature limitations.
+Vercel Hobby is for personal/non-commercial use. Use an appropriate plan for
+commercial affiliate/agency activity.
